@@ -1,32 +1,16 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @Gaseema
- Watch 1
-  Star 0
- Fork 9,275 Mrkezii/blog
-forked from barryclark/jekyll-now
- Code  Pull requests 0  Wiki  Pulse  Graphs
-Branch: gh-pages Find file Copy pathblog/_config.yml
-54753a4  a day ago
-@Mrkezii Mrkezii changed avatar
-7 contributors @barryclark @Mrkezii @eringrand @fleeting @javiercejudo @bkiers @rnicholus
-RawBlameHistory    87 lines (69 sloc)  2.54 KB
+
 #
 # This file contains configuration flags to customize your site
 #
 
 # Name of your site (displayed in the header)
-name: Gaseema Ndung'u
+name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Web Developer.
+description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -35,15 +19,15 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: david.kezi@yahoo.com
-  facebook: dkezi
+  email:
+  facebook:
   flickr:
-  github: mrkezii
-  instagram: kezidavid
-  linkedin: davidkezi
+  github: barryclark/jekyll-now
+  instagram:
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: daveed_kz
+  twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -101,5 +85,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-Status API Training Shop Blog About
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
